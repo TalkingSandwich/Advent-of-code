@@ -26,6 +26,7 @@ for sack in data:
 
 print("Total value of misplaced items:", total_value)
 
+
 # step 2
 # find matching item in each group of three elves
 
